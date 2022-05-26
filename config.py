@@ -1,4 +1,4 @@
-TOKEN = '5320958600:AAEGpj7ctcr39GGLznqhLvqXnFSU6lLwWn8'
+TOKEN = 'token of telegram bot'
 
 # dictionaries with values of available currencies
 keys = {'биткоин': 'BTC', 'эфириум': 'ETH', 'рубль': 'RUB', 'евро': 'EUR', 'доллар': 'USD',

@@ -11,5 +11,5 @@ This telegram bot knows several commands:
   
 For massage in format: <currency 1> <currency 2> <amount> display the amount of currency 2 in currency 1.  
   
-This bot is not running, you need to run the bot from your device.  
+This bot is running, but if something went wrong you need to run the bot from your device.  
 To work with this telegram bot, you need to install the requests and PyTelegramBotAPI packages.
